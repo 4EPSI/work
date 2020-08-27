@@ -1,0 +1,58 @@
+/* reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.el-1 {
+  float: left;
+  width: 33%;
+  background: black;
+  color: white;
+}
+.el-2 {
+  background: black;
+  width: 33%;
+  color: white;
+  float: left;
+
+}
+.el-3 {
+  background: black;
+  color: white;
+  width: 33%;
+  float: right;
+  padding-bottom: 33px;
+}
+.el-4 {
+  background: black;
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 100px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.el-5 {
+  background: black;
+  color: white;
+}
+.el-6 {
+  background: black;
+  color: white;
+  margin-bottom: 15px;
+}
+.el-7 {
+  background: black;
+  color: white;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}
